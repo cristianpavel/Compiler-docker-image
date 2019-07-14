@@ -1,0 +1,20 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "description": "Compiler for invata.info",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "rimraf": "^2.6.3",
+    "stream": "0.0.2",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pcristian97@gmail.com",
+  "license": "ISC"
+}
